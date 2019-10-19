@@ -1,7 +1,8 @@
+#include <stdio.h>
 /* This may look like nonsense, but really is -*- mode: C -*- */
 
 /* The main thing that this program does. */
-void main() {
+int  main() {
   // Declarations
   int i;
   double A[5] = {
